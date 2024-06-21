@@ -52,6 +52,7 @@ The container is name `oracle-on-docker`. A default `system` user will be automa
 - `docker run` : create and run a new container
 - `docker stop` : stop a running container (e.g. `docker stop f09` where `f09` is the container id.)
 - `docker start` : start a container that has been stopped (e.g. `docker start f09` where `f09` is the container id.)
+- `docker images` : shows the vm images on your computer
 
 ## Start Oracle SQL Developer
 
